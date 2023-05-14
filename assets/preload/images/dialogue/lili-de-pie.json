@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		160,
+		0
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "sad0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "sad0000",
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "happy0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "happy0000",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "emotional0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "emotional0000",
+			"anim": "emotional",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "insecure0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "insecure0000",
+			"anim": "insegura",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "sigh0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "sigh0000",
+			"anim": "sigh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "lili_de_pie"
+}

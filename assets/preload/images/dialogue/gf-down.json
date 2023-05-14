@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		0,
+		60
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"loop_name": "curious0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "curious0000",
+			"anim": "curious",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "worried0000",
+			"idle_offsets": [
+				2,
+				18
+			],
+			"idle_name": "worried0000",
+			"anim": "worried",
+			"loop_offsets": [
+				2,
+				18
+			]
+		},
+		{
+			"loop_name": "happy0000",
+			"idle_offsets": [
+				16,
+				12
+			],
+			"idle_name": "happy0000",
+			"anim": "happy",
+			"loop_offsets": [
+				16,
+				12
+			]
+		}
+	],
+	"image": "gf_pijama_dialogue"
+}

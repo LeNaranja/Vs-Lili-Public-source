@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf-outside",
+			"boxState": "normal",
+			"expression": "feliz 1",
+			"text": "Not bad, Lulu."
+		},
+		{
+			"sound": "slug-dialogue",
+			"speed": 0.05,
+			"portrait": "slug",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "Yeah, not bad."
+		},
+		{
+			"sound": "lili-angry-dialogue",
+			"speed": 0.05,
+			"portrait": "lili-full",
+			"boxState": "normal",
+			"expression": "suprise",
+			"text": "S-Slug!"
+		},
+		{
+			"sound": "slug-dialogue",
+			"speed": 0.05,
+			"portrait": "slug",
+			"boxState": "normal",
+			"expression": "suprise",
+			"text": "What surprises you? You knew i was coming."
+		},
+		{
+			"sound": "gf-dialogue",
+			"speed": 0.05,
+			"portrait": "gf-outside",
+			"boxState": "normal",
+			"expression": "upset",
+			"text": "Shut up and get out of my house!"
+		},
+		{
+			"sound": "slug-dialogue",
+			"speed": 0.05,
+			"portrait": "slug",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Shut your mouth, stupid redhead."
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf-outside",
+			"boxState": "normal",
+			"expression": "enojado",
+			"text": "Respect my girlfriend, emo boy."
+		},
+		{
+			"sound": "slug-dialogue",
+			"speed": 0.05,
+			"portrait": "slug",
+			"boxState": "normal",
+			"expression": "sarcastic",
+			"text": "Aww, is the boyfriend going to defend her?"
+		},
+		{
+			"sound": "slug-dialogue",
+			"speed": 0.05,
+			"portrait": "slug",
+			"boxState": "normal",
+			"expression": "suprise",
+			"text": "What will you do, midget?"
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf-outside",
+			"boxState": "normal",
+			"expression": "pelea",
+			"text": "Teach you a lesson, my way."
+		}
+	]
+}

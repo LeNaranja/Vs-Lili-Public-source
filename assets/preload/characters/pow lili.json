@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				39,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pow lili left"
+		},
+		{
+			"offsets": [
+				0,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pow lili down"
+		},
+		{
+			"offsets": [
+				3,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pow lili up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "pow lili idle"
+		},
+		{
+			"offsets": [
+				6,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "baka",
+			"indices": [],
+			"name": "pow lili baka"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pow lili right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lili_pow",
+	"position": [
+		210,
+		10
+	],
+	"healthicon": "lili-happy",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		10,
+		-170
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lulu_dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry0000" x="0" y="0" width="523" height="903"/>
+	<SubTexture name="curious0000" x="523" y="0" width="523" height="903"/>
+	<SubTexture name="excited0000" x="1046" y="0" width="557" height="899"/>
+	<SubTexture name="happy0000" x="1603" y="0" width="626" height="856"/>
+	<SubTexture name="happy 20000" x="2229" y="0" width="613" height="889"/>
+	<SubTexture name="sigh0000" x="2842" y="0" width="523" height="903"/>
+	<SubTexture name="upset0000" x="3365" y="0" width="523" height="903"/>
+	<SubTexture name="worried0000" x="0" y="903" width="523" height="903"/>
+</TextureAtlas>

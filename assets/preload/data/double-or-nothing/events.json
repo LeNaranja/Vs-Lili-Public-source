@@ -1,0 +1,298 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Vignette",
+						"1",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				4000,
+				[
+					[
+						"Quitar darkscreen intro",
+						"1",
+						"",
+						""
+					]
+				]
+			],
+			[
+				13066.6666666667,
+				[
+					[
+						"3rdstrum",
+						"true",
+						"",
+						""
+					]
+				]
+			],
+			[
+				81466.6666666667,
+				[
+					[
+						"3rdstrum",
+						"false",
+						"",
+						""
+					],
+					[
+						"Pantalla negra",
+						"1",
+						"0",
+						""
+					],
+					[
+						"UI on/off",
+						"false",
+						"",
+						""
+					],
+					[
+						"Strum visibilidad",
+						"dad",
+						"0",
+						"0"
+					],
+					[
+						"Strum visibilidad",
+						"bf",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				82066.6666666667,
+				[
+					[
+						"Strum visibilidad",
+						"bf",
+						"1",
+						"10"
+					]
+				]
+			],
+			[
+				82666.6666666667,
+				[
+					[
+						"Camera Flash",
+						"ffff",
+						"0.5"
+					],
+					[
+						"Pantalla negra",
+						"0",
+						"0",
+						""
+					],
+					[
+						"3rdstrum",
+						"true",
+						"",
+						""
+					],
+					[
+						"Strum visibilidad",
+						"dad",
+						"1",
+						"0"
+					],
+					[
+						"UI on/off",
+						"true",
+						"",
+						""
+					],
+					[
+						"Vignette",
+						"0",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				101866.666666667,
+				[
+					[
+						"Camera Flash",
+						"ffff",
+						"1.5",
+						""
+					]
+				]
+			],
+			[
+				119866.666666667,
+				[
+					[
+						"Pantalla negra",
+						"1",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				121066.666666667,
+				[
+					[
+						"Camera Flash",
+						"ffff",
+						"1.5"
+					],
+					[
+						"Pantalla negra",
+						"0",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				139066.666666667,
+				[
+					[
+						"Pantalla negra",
+						"1",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				140266.666666667,
+				[
+					[
+						"Camera Flash",
+						"ffff",
+						"1.5",
+						""
+					],
+					[
+						"Pantalla negra",
+						"0",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				159466.666666667,
+				[
+					[
+						"Pantalla negra",
+						"1",
+						"0",
+						""
+					],
+					[
+						"UI on/off",
+						"false",
+						"",
+						""
+					],
+					[
+						"3rdstrum",
+						"false",
+						"",
+						""
+					],
+					[
+						"Strum visibilidad",
+						"dad",
+						"0",
+						"0"
+					],
+					[
+						"Strum visibilidad",
+						"bf",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				160066.666666667,
+				[
+					[
+						"Strum visibilidad",
+						"bf",
+						"1",
+						"10"
+					]
+				]
+			],
+			[
+				160666.666666667,
+				[
+					[
+						"Camera Flash",
+						"ffff",
+						"0.5"
+					],
+					[
+						"3rdstrum",
+						"true",
+						"",
+						""
+					],
+					[
+						"Strum visibilidad",
+						"dad",
+						"1",
+						"10"
+					],
+					[
+						"Pantalla negra",
+						"0",
+						"0",
+						""
+					],
+					[
+						"Vignette",
+						"1",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				179866.666666667,
+				[
+					[
+						"Pantalla negra",
+						"1",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				181066.666666667,
+				[
+					[
+						"Camera Flash",
+						"ffff",
+						"1"
+					],
+					[
+						"Pantalla negra",
+						"0",
+						"0",
+						""
+					]
+				]
+			]
+		]
+	}
+}

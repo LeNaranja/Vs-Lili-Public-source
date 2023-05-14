@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"sound": "lulu-dialogue",
+			"speed": 0.05,
+			"portrait": "lulu",
+			"boxState": "normal",
+			"expression": "happy 2",
+			"text": "Not bad, little one."
+		},
+		{
+			"sound": "gf-dialogue",
+			"speed": 0.05,
+			"portrait": "gf-outside",
+			"boxState": "normal",
+			"expression": "sarcastic",
+			"text": "Ha, ha."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-outside",
+			"boxState": "normal",
+			"expression": "really",
+			"text": "..."
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf-outside",
+			"boxState": "normal",
+			"expression": "molesto",
+			"text": "Why do you call me 'little one' if you're just as little\"?!"
+		},
+		{
+			"sound": "lili-angry-dialogue",
+			"speed": 0.05,
+			"portrait": "lili-full",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Calm down, everything's fine."
+		},
+		{
+			"sound": "lulu-dialogue",
+			"speed": 0.05,
+			"portrait": "lulu",
+			"boxState": "normal",
+			"expression": "sigh",
+			"text": "Actually no... Slug is coming this way..."
+		},
+		{
+			"sound": "lili-angry-dialogue",
+			"speed": 0.05,
+			"portrait": "lili-full",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "It's true, I should get ready..."
+		},
+		{
+			"sound": "lulu-dialogue",
+			"speed": 0.05,
+			"portrait": "lulu",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Hey, relax, sister."
+		},
+		{
+			"sound": "lulu-dialogue",
+			"speed": 0.05,
+			"portrait": "lulu",
+			"boxState": "normal",
+			"expression": "happy 2",
+			"text": "How about we sing a couple more songs?"
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf-outside",
+			"boxState": "normal",
+			"expression": "feliz 1",
+			"text": "Okay! I'm in."
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf-outside",
+			"boxState": "normal",
+			"expression": "feliz 2",
+			"text": "What about you, GF?"
+		},
+		{
+			"sound": "gf-dialogue",
+			"speed": 0.05,
+			"portrait": "gf-outside",
+			"boxState": "normal",
+			"expression": "ugh",
+			"text": "Ugh, alright."
+		}
+	]
+}

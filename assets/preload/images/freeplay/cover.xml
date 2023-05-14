@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cover.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cover no selected0000" x="0" y="0" width="723" height="215"/>
+	<SubTexture name="Cover selected0000" x="0" y="215" width="723" height="216"/>
+</TextureAtlas>

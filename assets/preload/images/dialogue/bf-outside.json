@@ -1,0 +1,115 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-20,
+		30
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "calm down",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "calm down0000",
+			"anim": "calm down",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "duda",
+			"idle_offsets": [
+				-7,
+				-25
+			],
+			"idle_name": "duda0000",
+			"anim": "duda",
+			"loop_offsets": [
+				-7,
+				-25
+			]
+		},
+		{
+			"loop_name": "enojado",
+			"idle_offsets": [
+				-19,
+				-29
+			],
+			"idle_name": "enojado0000",
+			"anim": "enojado",
+			"loop_offsets": [
+				-19,
+				-29
+			]
+		},
+		{
+			"loop_name": "feliz left",
+			"idle_offsets": [
+				-6,
+				-4
+			],
+			"idle_name": "feliz left0000",
+			"anim": "feliz 1",
+			"loop_offsets": [
+				-6,
+				-4
+			]
+		},
+		{
+			"loop_name": "feliz up",
+			"idle_offsets": [
+				2,
+				-9
+			],
+			"idle_name": "feliz up0000",
+			"anim": "feliz 2",
+			"loop_offsets": [
+				2,
+				-9
+			]
+		},
+		{
+			"loop_name": "molesto",
+			"idle_offsets": [
+				-6,
+				-29
+			],
+			"idle_name": "molesto0000",
+			"anim": "molesto",
+			"loop_offsets": [
+				-6,
+				-29
+			]
+		},
+		{
+			"loop_name": "pelea",
+			"idle_offsets": [
+				-7,
+				-32
+			],
+			"idle_name": "pelea0000",
+			"anim": "pelea",
+			"loop_offsets": [
+				-7,
+				-32
+			]
+		},
+		{
+			"loop_name": "really",
+			"idle_offsets": [
+				-11,
+				-26
+			],
+			"idle_name": "really0000",
+			"anim": "really",
+			"loop_offsets": [
+				-11,
+				-26
+			]
+		}
+	],
+	"image": "bf_outside"
+}

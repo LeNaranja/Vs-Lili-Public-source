@@ -1,0 +1,115 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		30,
+		-110
+	],
+	"scale": 0.8,
+	"animations": [
+		{
+			"loop_name": "curious",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "curious0000",
+			"anim": "curious",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "angry0000",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "excited",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "excited0000",
+			"anim": "excited",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "happy0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "happy0000",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "happy 2",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "happy 20000",
+			"anim": "happy 2",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "sigh0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "sigh0000",
+			"anim": "sigh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "upset0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "upset0000",
+			"anim": "upset",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "worried0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "worried0000",
+			"anim": "worried",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "lulu_dialogue"
+}

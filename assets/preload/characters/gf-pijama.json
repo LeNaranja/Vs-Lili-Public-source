@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GF NOTE LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-17
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GF NOTE DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GF NOTE UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				81,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GF NOTE RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-3
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "GF NOTE L MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-2
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "GF NOTE D MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				12
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "GF NOTE U MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-15
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "GF NOTE R MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				45,
+				-8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "GF idle dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf pijama",
+	"position": [
+		-220,
+		220
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-130,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

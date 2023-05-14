@@ -1,0 +1,148 @@
+{
+	"dialogue": [
+		{
+			"expression": "sad",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.15,
+			"portrait": "lili-sad"
+		},
+		{
+			"expression": "worried",
+			"text": "Hey, is everything okay?",
+			"boxState": "normal",
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf_dialogue_chair"
+		},
+		{
+			"expression": "nervous",
+			"text": "Yeah...",
+			"boxState": "normal",
+			"sound": "lili-sad-dialogue",
+			"speed": 0.08,
+			"portrait": "lili-sad"
+		},
+		{
+			"expression": "grateful",
+			"text": "Thank you so much for your help.",
+			"boxState": "normal",
+			"sound": "lili-sad-dialogue",
+			"speed": 0.08,
+			"portrait": "lili-sad"
+		},
+		{
+			"expression": "relief",
+			"text": "I didn't think you would open the door for me.",
+			"boxState": "normal",
+			"sound": "lili-sad-dialogue",
+			"speed": 0.08,
+			"portrait": "lili-sad"
+		},
+		{
+			"expression": "curious",
+			"text": "What the hell were you doing in the rain?",
+			"boxState": "normal",
+			"sound": "gf-dialogue",
+			"speed": 0.05,
+			"portrait": "gf-down"
+		},
+		{
+			"expression": "sad",
+			"text": "I was escaping.",
+			"boxState": "normal",
+			"sound": "lili-sad-dialogue",
+			"speed": 0.05,
+			"portrait": "lili-sad"
+		},
+		{
+			"expression": "worried",
+			"text": "Uh? What happened?",
+			"boxState": "normal",
+			"sound": "gf-dialogue",
+			"speed": 0.05,
+			"portrait": "gf-down"
+		},
+		{
+			"expression": "nervous",
+			"text": "N-nothing, it was just...",
+			"boxState": "normal",
+			"sound": "lili-sad-dialogue",
+			"speed": 0.05,
+			"portrait": "lili-sad"
+		},
+		{
+			"expression": "relief",
+			"text": "Just my mistake.",
+			"boxState": "normal",
+			"sound": "lili-sad-dialogue",
+			"speed": 0.05,
+			"portrait": "lili-sad"
+		},
+		{
+			"expression": "sad",
+			"text": "I'm sorr-",
+			"boxState": "normal",
+			"sound": "lili-sad-dialogue",
+			"speed": 0.05,
+			"portrait": "lili-sad"
+		},
+		{
+			"expression": "chill",
+			"text": "Hey, it's okay, don't worry.",
+			"boxState": "normal",
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf_dialogue_chair"
+		},
+		{
+			"expression": "happy",
+			"text": "Maybe a song will cheer you up.",
+			"boxState": "normal",
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf_dialogue_chair"
+		},
+		{
+			"expression": "sad",
+			"text": "Umm... I don't know.",
+			"boxState": "normal",
+			"sound": "lili-sad-dialogue",
+			"speed": 0.05,
+			"portrait": "lili-sad"
+		},
+		{
+			"expression": "nervous",
+			"text": "I'm not good at singing.",
+			"boxState": "normal",
+			"sound": "lili-sad-dialogue",
+			"speed": 0.05,
+			"portrait": "lili-sad"
+		},
+		{
+			"expression": "happy",
+			"text": "There's always a first time, don't worry.",
+			"boxState": "normal",
+			"sound": "gf-dialogue",
+			"speed": 0.05,
+			"portrait": "gf-down"
+		},
+		{
+			"expression": "relief",
+			"text": "Okay...",
+			"boxState": "normal",
+			"sound": "lili-sad-dialogue",
+			"speed": 0.05,
+			"portrait": "lili-sad"
+		},
+		{
+			"expression": "grateful",
+			"text": "A song doesn't hurt anyone, right?",
+			"boxState": "normal",
+			"portrait": "lili-sad",
+			"speed": 0.05,
+			"sound": "lili-sad-dialogue"
+		}
+	]
+}

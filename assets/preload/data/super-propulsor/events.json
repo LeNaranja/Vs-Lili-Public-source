@@ -1,0 +1,374 @@
+{
+	"song": {
+		"events": [
+			[
+				24000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-pijama-2-icons",
+						""
+					],
+					[
+						"3rdstrum",
+						"true",
+						"",
+						""
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Pantalla negra",
+						"1",
+						"0",
+						""
+					],
+					[
+						"UI on/off",
+						"false",
+						"",
+						""
+					],
+					[
+						"Strum visibilidad",
+						"dad",
+						"0",
+						"0"
+					],
+					[
+						"Strum visibilidad",
+						"bf",
+						"0",
+						"0"
+					],
+					[
+						"3rdstrum",
+						"false",
+						"",
+						""
+					]
+				]
+			],
+			[
+				37500,
+				[
+					[
+						"Camera Flash",
+						"ffff",
+						"3",
+						""
+					],
+					[
+						"3rdstrum",
+						"true",
+						"",
+						""
+					],
+					[
+						"Strum visibilidad",
+						"dad",
+						"1",
+						"0"
+					],
+					[
+						"Strum visibilidad",
+						"bf",
+						"1",
+						"0"
+					],
+					[
+						"UI on/off",
+						"true",
+						"",
+						""
+					],
+					[
+						"Pantalla negra",
+						"0",
+						"0",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"Lili happy",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf happy",
+						""
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf happy",
+						""
+					]
+				]
+			],
+			[
+				58833.3333333334,
+				[
+					[
+						"Camera Flash",
+						"000000",
+						"2",
+						""
+					],
+					[
+						"UI on/off",
+						"false",
+						"",
+						""
+					],
+					[
+						"Strum visibilidad",
+						"dad",
+						"0",
+						"0"
+					],
+					[
+						"Strum visibilidad",
+						"bf",
+						"0",
+						"0"
+					],
+					[
+						"Zoom",
+						"0.8",
+						"1",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"250",
+						"550",
+						""
+					],
+					[
+						"3rdstrum",
+						"false",
+						"",
+						""
+					]
+				]
+			],
+			[
+				69500,
+				[
+					[
+						"Strum visibilidad",
+						"dad",
+						"1",
+						"0"
+					],
+					[
+						"3rdstrum",
+						"true",
+						"",
+						""
+					],
+					[
+						"Zoom",
+						"0.6",
+						"1",
+						""
+					],
+					[
+						"Camera Flash",
+						"ffff",
+						"2",
+						""
+					],
+					[
+						"UI on/off",
+						"true",
+						"",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				71500,
+				[
+					[
+						"Strum visibilidad",
+						"bf",
+						"1",
+						"10"
+					]
+				]
+			],
+			[
+				112166.666666667,
+				[
+					[
+						"Camera Flash",
+						"000000",
+						"2"
+					],
+					[
+						"UI on/off",
+						"false",
+						""
+					],
+					[
+						"Strum visibilidad",
+						"dad",
+						"0"
+					],
+					[
+						"Strum visibilidad",
+						"bf",
+						"0"
+					],
+					[
+						"Zoom",
+						"0.8",
+						"1"
+					],
+					[
+						"Camera Follow Pos",
+						"250",
+						"550"
+					],
+					[
+						"3rdstrum",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				122833.333333333,
+				[
+					[
+						"Strum visibilidad",
+						"dad",
+						"1"
+					],
+					[
+						"3rdstrum",
+						"true",
+						""
+					],
+					[
+						"Zoom",
+						"0.6",
+						"1"
+					],
+					[
+						"Camera Flash",
+						"ffff",
+						"2"
+					],
+					[
+						"UI on/off",
+						"true",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				124833.333333333,
+				[
+					[
+						"Strum visibilidad",
+						"bf",
+						"1",
+						"5"
+					]
+				]
+			],
+			[
+				143500,
+				[
+					[
+						"Strum visibilidad",
+						"dad",
+						"0",
+						"5"
+					]
+				]
+			],
+			[
+				144166.666666667,
+				[
+					[
+						"3rdstrum",
+						"false",
+						"",
+						""
+					],
+					[
+						"Camera Flash",
+						"ffff",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				154166.666666667,
+				[
+					[
+						"Strum visibilidad",
+						"dad",
+						"1",
+						"10"
+					]
+				]
+			],
+			[
+				155500,
+				[
+					[
+						"3rdstrum",
+						"true",
+						"",
+						""
+					]
+				]
+			],
+			[
+				165500,
+				[
+					[
+						"Camera Flash",
+						"ffff",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				202833.333333334,
+				[
+					[
+						"UI on/off",
+						"false",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}

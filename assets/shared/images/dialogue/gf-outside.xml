@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf-outside.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry0000" x="0" y="0" width="308" height="414"/>
+	<SubTexture name="sarcastic0000" x="308" y="0" width="260" height="414"/>
+	<SubTexture name="ugh0000" x="568" y="0" width="274" height="419"/>
+	<SubTexture name="upset0000" x="0" y="419" width="258" height="413"/>
+</TextureAtlas>

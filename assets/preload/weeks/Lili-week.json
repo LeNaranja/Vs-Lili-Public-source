@@ -1,0 +1,86 @@
+{
+	"storyName": "vs lili",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "Lili-week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"my history",
+			"lili-sad",
+			[
+				186,
+				53,
+				233
+			]
+		],
+		[
+			"super propulsor",
+			"lili-happy",
+			[
+				186,
+				113,
+				253
+			]
+		],
+		[
+			"little suprise",
+			"lulu",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"electric",
+			"lulu",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"glowing future",
+			"lulu",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"double or nothing",
+			"slug",
+			[
+				146,
+				0,
+				13
+			]
+		],
+		[
+			"i see your soul",
+			"slug",
+			[
+				86,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Full lili week"
+}

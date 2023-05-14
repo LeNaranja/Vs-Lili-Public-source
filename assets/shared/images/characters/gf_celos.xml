@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf_celos.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf celosa down0000" x="0" y="0" width="443" height="776" frameX="0" frameY="-8" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa down0001" x="443" y="0" width="443" height="776" frameX="0" frameY="-8" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa down0002" x="886" y="0" width="444" height="775" frameX="0" frameY="-9" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa down0003" x="1330" y="0" width="445" height="775" frameX="0" frameY="-9" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa down0004" x="1775" y="0" width="445" height="775" frameX="0" frameY="-9" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa down0005" x="2220" y="0" width="443" height="776" frameX="0" frameY="-8" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa down0006" x="2663" y="0" width="438" height="777" frameX="-1" frameY="-7" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa down0007" x="3101" y="0" width="429" height="780" frameX="-3" frameY="-4" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa down0008" x="3530" y="0" width="421" height="782" frameX="-4" frameY="-2" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa down0009" x="3951" y="0" width="416" height="784" frameX="-5" frameY="0" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa down0010" x="4367" y="0" width="415" height="784" frameX="-5" frameY="0" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa down0011" x="4782" y="0" width="414" height="784" frameX="-5" frameY="0" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa down0012" x="5196" y="0" width="415" height="784" frameX="-5" frameY="0" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa down0013" x="5611" y="0" width="416" height="784" frameX="-5" frameY="0" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa down0014" x="6027" y="0" width="417" height="784" frameX="-5" frameY="0" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa idle0000" x="6444" y="0" width="443" height="776" frameX="0" frameY="-8" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa idle0001" x="6887" y="0" width="443" height="776" frameX="0" frameY="-8" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa idle0002" x="7330" y="0" width="444" height="775" frameX="0" frameY="-9" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa idle0003" x="0" y="784" width="445" height="775" frameX="0" frameY="-9" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa idle0004" x="445" y="784" width="445" height="775" frameX="0" frameY="-9" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa idle0005" x="890" y="784" width="443" height="776" frameX="0" frameY="-8" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa idle0006" x="1333" y="784" width="438" height="777" frameX="-1" frameY="-7" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa idle0007" x="1771" y="784" width="429" height="780" frameX="-3" frameY="-4" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa idle0008" x="2200" y="784" width="421" height="782" frameX="-4" frameY="-2" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa idle0009" x="2621" y="784" width="416" height="784" frameX="-5" frameY="0" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa idle0010" x="3037" y="784" width="415" height="784" frameX="-5" frameY="0" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa idle0011" x="3452" y="784" width="414" height="784" frameX="-5" frameY="0" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa idle0012" x="3866" y="784" width="415" height="784" frameX="-5" frameY="0" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa idle0013" x="4281" y="784" width="416" height="784" frameX="-5" frameY="0" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa idle0014" x="4697" y="784" width="417" height="784" frameX="-5" frameY="0" frameWidth="445" frameHeight="784"/>
+	<SubTexture name="gf celosa left0000" x="5114" y="784" width="425" height="758" frameX="0" frameY="-1" frameWidth="442" frameHeight="777"/>
+	<SubTexture name="gf celosa left0001" x="5539" y="784" width="425" height="757" frameX="0" frameY="-1" frameWidth="442" frameHeight="777"/>
+	<SubTexture name="gf celosa left0002" x="5964" y="784" width="424" height="757" frameX="0" frameY="-1" frameWidth="442" frameHeight="777"/>
+	<SubTexture name="gf celosa left0003" x="6388" y="784" width="424" height="757" frameX="0" frameY="0" frameWidth="442" frameHeight="777"/>
+	<SubTexture name="gf celosa left0004" x="6812" y="784" width="424" height="757" frameX="0" frameY="-1" frameWidth="442" frameHeight="777"/>
+	<SubTexture name="gf celosa left0005" x="7236" y="784" width="425" height="759" frameX="0" frameY="0" frameWidth="442" frameHeight="777"/>
+	<SubTexture name="gf celosa left0006" x="7661" y="784" width="428" height="761" frameX="0" frameY="-1" frameWidth="442" frameHeight="777"/>
+	<SubTexture name="gf celosa left0007" x="0" y="1568" width="432" height="766" frameX="0" frameY="0" frameWidth="442" frameHeight="777"/>
+	<SubTexture name="gf celosa left0008" x="432" y="1568" width="437" height="772" frameX="0" frameY="0" frameWidth="442" frameHeight="777"/>
+	<SubTexture name="gf celosa left0009" x="869" y="1568" width="440" height="775" frameX="0" frameY="0" frameWidth="442" frameHeight="777"/>
+	<SubTexture name="gf celosa left0010" x="1309" y="1568" width="440" height="777" frameX="-1" frameY="0" frameWidth="442" frameHeight="777"/>
+	<SubTexture name="gf celosa left0011" x="1749" y="1568" width="441" height="777" frameX="-1" frameY="0" frameWidth="442" frameHeight="777"/>
+	<SubTexture name="gf celosa left0012" x="2190" y="1568" width="441" height="777" frameX="-1" frameY="0" frameWidth="442" frameHeight="777"/>
+	<SubTexture name="gf celosa left0013" x="2631" y="1568" width="441" height="777" frameX="-1" frameY="0" frameWidth="442" frameHeight="777"/>
+	<SubTexture name="gf celosa left0014" x="3072" y="1568" width="441" height="777" frameX="0" frameY="0" frameWidth="442" frameHeight="777"/>
+	<SubTexture name="gf celosa right0000" x="3513" y="1568" width="469" height="780" frameX="-1" frameY="-1" frameWidth="471" frameHeight="781"/>
+	<SubTexture name="gf celosa right0001" x="3982" y="1568" width="470" height="780" frameX="0" frameY="-1" frameWidth="471" frameHeight="781"/>
+	<SubTexture name="gf celosa right0002" x="4452" y="1568" width="471" height="781"/>
+	<SubTexture name="gf celosa right0003" x="4923" y="1568" width="471" height="781"/>
+	<SubTexture name="gf celosa right0004" x="5394" y="1568" width="471" height="781"/>
+	<SubTexture name="gf celosa right0005" x="5865" y="1568" width="470" height="780" frameX="0" frameY="-1" frameWidth="471" frameHeight="781"/>
+	<SubTexture name="gf celosa right0006" x="6335" y="1568" width="467" height="780" frameX="-1" frameY="-1" frameWidth="471" frameHeight="781"/>
+	<SubTexture name="gf celosa right0007" x="6802" y="1568" width="462" height="779" frameX="-3" frameY="-2" frameWidth="471" frameHeight="781"/>
+	<SubTexture name="gf celosa right0008" x="7264" y="1568" width="453" height="778" frameX="-6" frameY="-3" frameWidth="471" frameHeight="781"/>
+	<SubTexture name="gf celosa right0009" x="7717" y="1568" width="447" height="777" frameX="-8" frameY="-4" frameWidth="471" frameHeight="781"/>
+	<SubTexture name="gf celosa right0010" x="0" y="2349" width="444" height="776" frameX="-9" frameY="-5" frameWidth="471" frameHeight="781"/>
+	<SubTexture name="gf celosa right0011" x="444" y="2349" width="442" height="776" frameX="-10" frameY="-5" frameWidth="471" frameHeight="781"/>
+	<SubTexture name="gf celosa right0012" x="886" y="2349" width="441" height="776" frameX="-10" frameY="-5" frameWidth="471" frameHeight="781"/>
+	<SubTexture name="gf celosa right0013" x="1327" y="2349" width="441" height="776" frameX="-10" frameY="-5" frameWidth="471" frameHeight="781"/>
+	<SubTexture name="gf celosa right0014" x="1768" y="2349" width="441" height="776" frameX="-10" frameY="-5" frameWidth="471" frameHeight="781"/>
+	<SubTexture name="gf celosa right0015" x="2209" y="2349" width="443" height="776" frameX="-9" frameY="-5" frameWidth="471" frameHeight="781"/>
+	<SubTexture name="gf celosa up0000" x="2652" y="2349" width="446" height="830" frameX="-1" frameY="-2" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="gf celosa up0001" x="3098" y="2349" width="446" height="832" frameX="-1" frameY="-1" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="gf celosa up0002" x="3544" y="2349" width="446" height="833" frameX="-1" frameY="-1" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="gf celosa up0003" x="3990" y="2349" width="446" height="836" frameX="-1" frameY="0" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="gf celosa up0004" x="4436" y="2349" width="446" height="835" frameX="-1" frameY="0" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="gf celosa up0005" x="4882" y="2349" width="446" height="830" frameX="-1" frameY="-2" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="gf celosa up0006" x="5328" y="2349" width="445" height="820" frameX="-1" frameY="-5" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="gf celosa up0007" x="5773" y="2349" width="444" height="803" frameX="-1" frameY="-10" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="gf celosa up0008" x="6217" y="2349" width="444" height="786" frameX="0" frameY="-15" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="gf celosa up0009" x="6661" y="2349" width="443" height="775" frameX="0" frameY="-18" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="gf celosa up0010" x="7104" y="2349" width="443" height="770" frameX="0" frameY="-20" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="gf celosa up0011" x="7547" y="2349" width="443" height="770" frameX="0" frameY="-20" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="gf celosa up0012" x="0" y="3185" width="443" height="772" frameX="0" frameY="-19" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="gf celosa up0013" x="443" y="3185" width="443" height="775" frameX="0" frameY="-18" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="gf celosa up0014" x="886" y="3185" width="443" height="776" frameX="0" frameY="-18" frameWidth="447" frameHeight="836"/>
+</TextureAtlas>

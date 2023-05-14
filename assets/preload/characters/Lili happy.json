@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				99,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "lili two down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "lili two idle"
+		},
+		{
+			"offsets": [
+				44,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "lili two left"
+		},
+		{
+			"offsets": [
+				-5,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "lili two right"
+		},
+		{
+			"offsets": [
+				10,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "lili two up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Lili_happy",
+	"position": [
+		30,
+		-70
+	],
+	"healthicon": "lili-happy",
+	"flip_x": false,
+	"healthbar_colors": [
+		169,
+		0,
+		255
+	],
+	"camera_position": [
+		50,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

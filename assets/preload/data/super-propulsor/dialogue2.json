@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf_dialogue_chair",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "You see? That wasn't so bad."
+		},
+		{
+			"sound": "lili-angry-dialogue",
+			"speed": 0.05,
+			"portrait": "lili-de-pie",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Yes, you're right."
+		},
+		{
+			"sound": "lili-angry-dialogue",
+			"speed": 0.05,
+			"portrait": "lili-de-pie",
+			"boxState": "normal",
+			"expression": "emotional",
+			"text": "But I still don't understand why you're so kind."
+		},
+		{
+			"sound": "gf-dialogue",
+			"speed": 0.05,
+			"portrait": "gf-down",
+			"boxState": "normal",
+			"expression": "curious",
+			"text": "I don't understand you either."
+		},
+		{
+			"sound": "gf-dialogue",
+			"speed": 0.05,
+			"portrait": "gf-down",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "It's simple."
+		},
+		{
+			"sound": "gf-dialogue",
+			"speed": 0.05,
+			"portrait": "gf-down",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "We weren't going to let you die. Robots have lives too!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lili-de-pie",
+			"boxState": "normal",
+			"expression": "insegura",
+			"text": "..."
+		},
+		{
+			"sound": "lili-angry-dialogue",
+			"speed": 0.05,
+			"portrait": "lili-de-pie",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "I was abused by a disgusting general."
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf_dialogue_chair",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Abused?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lili-de-pie",
+			"boxState": "normal",
+			"expression": "insegura",
+			"text": "..."
+		},
+		{
+			"sound": "lili-angry-dialogue",
+			"speed": 0.05,
+			"portrait": "lili-de-pie",
+			"boxState": "normal",
+			"expression": "sigh",
+			"text": "He saw how I ended up with his entire army and then escaped."
+		},
+		{
+			"sound": "lili-angry-dialogue",
+			"speed": 0.05,
+			"portrait": "lili-de-pie",
+			"boxState": "normal",
+			"expression": "insegura",
+			"text": "During my escape, I noticed he went to awaken B-45."
+		},
+		{
+			"sound": "lili-angry-dialogue",
+			"speed": 0.05,
+			"portrait": "lili-de-pie",
+			"boxState": "normal",
+			"expression": "emotional",
+			"text": "Better known as Slug."
+		},
+		{
+			"sound": "lili-angry-dialogue",
+			"speed": 0.05,
+			"portrait": "lili-de-pie",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "And he's coming to us..."
+		}
+	]
+}

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="extra.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Extra no selected0000" x="0" y="0" width="725" height="220"/>
+	<SubTexture name="Extra selected0000" x="0" y="220" width="724" height="218"/>
+</TextureAtlas>

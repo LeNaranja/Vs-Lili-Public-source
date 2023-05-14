@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf_dialogue_chair.png"><SubTexture name="bf_dialogue_chair abajo0000" x="1670" y="593" width="404" height="582" frameX="-8" frameY="-29" frameWidth="423" frameHeight="617" />
+<SubTexture name="bf_dialogue_chair down_m0000" x="0" y="0" width="427" height="622" frameX="-26" frameY="-34" frameWidth="465" frameHeight="662" />
+<SubTexture name="bf_dialogue_chair left0000" x="0" y="622" width="406" height="603" frameX="-14" frameY="-26" frameWidth="437" frameHeight="635" />
+<SubTexture name="bf_dialogue_chair left_m0000" x="406" y="622" width="408" height="603" frameX="0" frameY="-17" frameWidth="452" frameHeight="639" />
+<SubTexture name="bf_dialogue_chair right0000" x="1245" y="0" width="425" height="598" frameX="-8" frameY="-43" frameWidth="460" frameHeight="647" />
+<SubTexture name="bf_dialogue_chair right_m0000" x="1670" y="0" width="452" height="593" frameX="-14" frameY="-30" frameWidth="517" frameHeight="629" />
+<SubTexture name="bf_dialogue_chair up0000" x="839" y="0" width="406" height="607" frameX="-14" frameY="-45" frameWidth="468" frameHeight="658" />
+<SubTexture name="bf_dialogue_chair up_m0000" x="427" y="0" width="412" height="612" frameX="-25" frameY="-58" frameWidth="456" frameHeight="676" />
+<SubTexture name="bf_dialogue_chair idle0000" x="814" y="622" width="411" height="601" frameX="-18" frameY="-17" frameWidth="440" frameHeight="624" />
+</TextureAtlas>

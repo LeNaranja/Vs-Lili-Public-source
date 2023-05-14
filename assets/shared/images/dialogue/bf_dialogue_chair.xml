@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf_dialogue_chair.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bruh0000" x="0" y="0" width="452" height="639"/>
+	<SubTexture name="chill0000" x="452" y="0" width="460" height="647"/>
+	<SubTexture name="confused0000" x="912" y="0" width="465" height="662"/>
+	<SubTexture name="happy0000" x="1377" y="0" width="437" height="635"/>
+	<SubTexture name="serious0000" x="0" y="662" width="440" height="624"/>
+	<SubTexture name="shock0000" x="440" y="662" width="517" height="629"/>
+	<SubTexture name="worried0000" x="957" y="662" width="437" height="635"/>
+</TextureAtlas>

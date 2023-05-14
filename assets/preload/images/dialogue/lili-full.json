@@ -1,0 +1,128 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-30,
+		-20
+	],
+	"scale": 1.15,
+	"animations": [
+		{
+			"loop_name": "emotional",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "emotional0000",
+			"anim": "emotional",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "excited",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "excited0000",
+			"anim": "excited",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "happy0000",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "insecure",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "insecure0000",
+			"anim": "insecure",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "sad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "sad0000",
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "sigh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "sigh0000",
+			"anim": "sigh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "stop",
+			"idle_offsets": [
+				60,
+				30
+			],
+			"idle_name": "stop0000",
+			"anim": "stop",
+			"loop_offsets": [
+				60,
+				30
+			]
+		},
+		{
+			"loop_name": "suprise",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "suprise0000",
+			"anim": "suprise",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "angry",
+			"idle_offsets": [
+				0,
+				17
+			],
+			"idle_name": "angry0000",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				17
+			]
+		}
+	],
+	"image": "lili-full"
+}

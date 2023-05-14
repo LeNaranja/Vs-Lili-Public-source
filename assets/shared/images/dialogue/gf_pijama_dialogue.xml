@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf_pijama_dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="curious0000" x="0" y="0" width="393" height="431"/>
+	<SubTexture name="happy0000" x="393" y="0" width="468" height="460"/>
+	<SubTexture name="worried0000" x="0" y="460" width="468" height="460"/>
+</TextureAtlas>

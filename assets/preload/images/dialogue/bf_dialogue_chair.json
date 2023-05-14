@@ -1,0 +1,102 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-140,
+		-30
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"idle_offsets": [
+				-3,
+				-2
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				-3,
+				-2
+			],
+			"idle_name": "confused000",
+			"loop_name": "confused0000"
+		},
+		{
+			"loop_name": "bruh0000",
+			"idle_offsets": [
+				-21,
+				-30
+			],
+			"idle_name": "bruh000",
+			"anim": "bruh",
+			"loop_offsets": [
+				-21,
+				-30
+			]
+		},
+		{
+			"loop_name": "happy0000",
+			"idle_offsets": [
+				-17,
+				-24
+			],
+			"idle_name": "happy0000",
+			"anim": "happy",
+			"loop_offsets": [
+				-17,
+				-24
+			]
+		},
+		{
+			"loop_name": "chill0000",
+			"idle_offsets": [
+				-23,
+				-15
+			],
+			"idle_name": "chill0000",
+			"anim": "chill",
+			"loop_offsets": [
+				-23,
+				-15
+			]
+		},
+		{
+			"loop_name": "serious0000",
+			"idle_offsets": [
+				-15,
+				-33
+			],
+			"idle_name": "serious0000",
+			"anim": "serious",
+			"loop_offsets": [
+				-15,
+				-33
+			]
+		},
+		{
+			"loop_name": "shock0000",
+			"idle_offsets": [
+				-12,
+				-27
+			],
+			"idle_name": "shock0000",
+			"anim": "shock",
+			"loop_offsets": [
+				-12,
+				-27
+			]
+		},
+		{
+			"loop_name": "worried0000",
+			"idle_offsets": [
+				-19,
+				-24
+			],
+			"idle_name": "worried0000",
+			"anim": "worried",
+			"loop_offsets": [
+				-19,
+				-24
+			]
+		}
+	],
+	"image": "bf_dialogue_chair"
+}

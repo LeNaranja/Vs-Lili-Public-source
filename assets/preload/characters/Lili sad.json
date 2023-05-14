@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "lili idle dance"
+		},
+		{
+			"offsets": [
+				9,
+				-15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "lili note left"
+		},
+		{
+			"offsets": [
+				-3,
+				-16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "lili note right"
+		},
+		{
+			"offsets": [
+				-3,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "lili note down"
+		},
+		{
+			"offsets": [
+				-2,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "lili note up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lili_sad",
+	"position": [
+		30,
+		150
+	],
+	"healthicon": "lili-sad",
+	"flip_x": false,
+	"healthbar_colors": [
+		169,
+		0,
+		255
+	],
+	"camera_position": [
+		120,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

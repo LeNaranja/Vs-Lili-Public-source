@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lili_chill.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lili down0000" x="0" y="0" width="475" height="729" frameX="0" frameY="0" frameWidth="475" frameHeight="730"/>
+	<SubTexture name="lili down0001" x="0" y="0" width="475" height="729" frameX="0" frameY="0" frameWidth="475" frameHeight="730"/>
+	<SubTexture name="lili down0002" x="0" y="0" width="475" height="729" frameX="0" frameY="0" frameWidth="475" frameHeight="730"/>
+	<SubTexture name="lili down0003" x="475" y="0" width="470" height="727" frameX="-5" frameY="-3" frameWidth="475" frameHeight="730"/>
+	<SubTexture name="lili down0004" x="475" y="0" width="470" height="727" frameX="-5" frameY="-3" frameWidth="475" frameHeight="730"/>
+	<SubTexture name="lili down0005" x="945" y="0" width="467" height="726" frameX="-7" frameY="-4" frameWidth="475" frameHeight="730"/>
+	<SubTexture name="lili down0006" x="945" y="0" width="467" height="726" frameX="-7" frameY="-4" frameWidth="475" frameHeight="730"/>
+	<SubTexture name="lili down0007" x="945" y="0" width="467" height="726" frameX="-7" frameY="-4" frameWidth="475" frameHeight="730"/>
+	<SubTexture name="lili down0008" x="945" y="0" width="467" height="726" frameX="-7" frameY="-4" frameWidth="475" frameHeight="730"/>
+	<SubTexture name="lili down0009" x="945" y="0" width="467" height="726" frameX="-7" frameY="-4" frameWidth="475" frameHeight="730"/>
+	<SubTexture name="lili down0010" x="945" y="0" width="467" height="726" frameX="-7" frameY="-4" frameWidth="475" frameHeight="730"/>
+	<SubTexture name="lili down0011" x="945" y="0" width="467" height="726" frameX="-7" frameY="-4" frameWidth="475" frameHeight="730"/>
+	<SubTexture name="lili down0012" x="945" y="0" width="467" height="726" frameX="-7" frameY="-4" frameWidth="475" frameHeight="730"/>
+	<SubTexture name="lili down0013" x="945" y="0" width="467" height="726" frameX="-7" frameY="-4" frameWidth="475" frameHeight="730"/>
+	<SubTexture name="lili down0014" x="945" y="0" width="467" height="726" frameX="-7" frameY="-4" frameWidth="475" frameHeight="730"/>
+	<SubTexture name="lili down0015" x="945" y="0" width="467" height="726" frameX="-7" frameY="-4" frameWidth="475" frameHeight="730"/>
+	<SubTexture name="lili idle0000" x="1412" y="0" width="411" height="741" frameX="-6" frameY="-1" frameWidth="417" frameHeight="742"/>
+	<SubTexture name="lili idle0001" x="1412" y="0" width="411" height="741" frameX="-6" frameY="-1" frameWidth="417" frameHeight="742"/>
+	<SubTexture name="lili idle0002" x="1823" y="0" width="407" height="732" frameX="-8" frameY="-10" frameWidth="417" frameHeight="742"/>
+	<SubTexture name="lili idle0003" x="1823" y="0" width="407" height="732" frameX="-8" frameY="-10" frameWidth="417" frameHeight="742"/>
+	<SubTexture name="lili idle0004" x="2230" y="0" width="395" height="735" frameX="-12" frameY="-7" frameWidth="417" frameHeight="742"/>
+	<SubTexture name="lili idle0005" x="2230" y="0" width="395" height="735" frameX="-12" frameY="-7" frameWidth="417" frameHeight="742"/>
+	<SubTexture name="lili idle0006" x="2625" y="0" width="403" height="735" frameX="-12" frameY="-7" frameWidth="417" frameHeight="742"/>
+	<SubTexture name="lili idle0007" x="2625" y="0" width="403" height="735" frameX="-12" frameY="-7" frameWidth="417" frameHeight="742"/>
+	<SubTexture name="lili idle0008" x="3028" y="0" width="415" height="742" frameX="0" frameY="0" frameWidth="417" frameHeight="742"/>
+	<SubTexture name="lili idle0009" x="3028" y="0" width="415" height="742" frameX="0" frameY="0" frameWidth="417" frameHeight="742"/>
+	<SubTexture name="lili idle0010" x="3028" y="0" width="415" height="742" frameX="0" frameY="0" frameWidth="417" frameHeight="742"/>
+	<SubTexture name="lili idle0011" x="3028" y="0" width="415" height="742" frameX="0" frameY="0" frameWidth="417" frameHeight="742"/>
+	<SubTexture name="lili idle0012" x="3028" y="0" width="415" height="742" frameX="0" frameY="0" frameWidth="417" frameHeight="742"/>
+	<SubTexture name="lili left0000" x="3443" y="0" width="542" height="764" frameX="0" frameY="0" frameWidth="545" frameHeight="764"/>
+	<SubTexture name="lili left0001" x="3443" y="0" width="542" height="764" frameX="0" frameY="0" frameWidth="545" frameHeight="764"/>
+	<SubTexture name="lili left0002" x="3443" y="0" width="542" height="764" frameX="0" frameY="0" frameWidth="545" frameHeight="764"/>
+	<SubTexture name="lili left0003" x="0" y="764" width="537" height="760" frameX="-7" frameY="-4" frameWidth="545" frameHeight="764"/>
+	<SubTexture name="lili left0004" x="0" y="764" width="537" height="760" frameX="-7" frameY="-4" frameWidth="545" frameHeight="764"/>
+	<SubTexture name="lili left0005" x="537" y="764" width="526" height="747" frameX="-19" frameY="-17" frameWidth="545" frameHeight="764"/>
+	<SubTexture name="lili left0006" x="537" y="764" width="526" height="747" frameX="-19" frameY="-17" frameWidth="545" frameHeight="764"/>
+	<SubTexture name="lili left0007" x="537" y="764" width="526" height="747" frameX="-19" frameY="-17" frameWidth="545" frameHeight="764"/>
+	<SubTexture name="lili left0008" x="537" y="764" width="526" height="747" frameX="-19" frameY="-17" frameWidth="545" frameHeight="764"/>
+	<SubTexture name="lili left0009" x="537" y="764" width="526" height="747" frameX="-19" frameY="-17" frameWidth="545" frameHeight="764"/>
+	<SubTexture name="lili left0010" x="537" y="764" width="526" height="747" frameX="-19" frameY="-17" frameWidth="545" frameHeight="764"/>
+	<SubTexture name="lili left0011" x="537" y="764" width="526" height="747" frameX="-19" frameY="-17" frameWidth="545" frameHeight="764"/>
+	<SubTexture name="lili left0012" x="537" y="764" width="526" height="747" frameX="-19" frameY="-17" frameWidth="545" frameHeight="764"/>
+	<SubTexture name="lili left0013" x="537" y="764" width="526" height="747" frameX="-19" frameY="-17" frameWidth="545" frameHeight="764"/>
+	<SubTexture name="lili left0014" x="537" y="764" width="526" height="747" frameX="-19" frameY="-17" frameWidth="545" frameHeight="764"/>
+	<SubTexture name="lili left0015" x="537" y="764" width="526" height="747" frameX="-19" frameY="-17" frameWidth="545" frameHeight="764"/>
+	<SubTexture name="lili right0000" x="1063" y="764" width="413" height="759" frameX="0" frameY="0" frameWidth="419" frameHeight="760"/>
+	<SubTexture name="lili right0001" x="1063" y="764" width="413" height="759" frameX="0" frameY="0" frameWidth="419" frameHeight="760"/>
+	<SubTexture name="lili right0002" x="1063" y="764" width="413" height="759" frameX="0" frameY="0" frameWidth="419" frameHeight="760"/>
+	<SubTexture name="lili right0003" x="1476" y="764" width="412" height="749" frameX="-7" frameY="-11" frameWidth="419" frameHeight="760"/>
+	<SubTexture name="lili right0004" x="1476" y="764" width="412" height="749" frameX="-7" frameY="-11" frameWidth="419" frameHeight="760"/>
+	<SubTexture name="lili right0005" x="1888" y="764" width="412" height="743" frameX="-7" frameY="-17" frameWidth="419" frameHeight="760"/>
+	<SubTexture name="lili right0006" x="1888" y="764" width="412" height="743" frameX="-7" frameY="-17" frameWidth="419" frameHeight="760"/>
+	<SubTexture name="lili right0007" x="1888" y="764" width="412" height="743" frameX="-7" frameY="-17" frameWidth="419" frameHeight="760"/>
+	<SubTexture name="lili right0008" x="1888" y="764" width="412" height="743" frameX="-7" frameY="-17" frameWidth="419" frameHeight="760"/>
+	<SubTexture name="lili right0009" x="1888" y="764" width="412" height="743" frameX="-7" frameY="-17" frameWidth="419" frameHeight="760"/>
+	<SubTexture name="lili right0010" x="1888" y="764" width="412" height="743" frameX="-7" frameY="-17" frameWidth="419" frameHeight="760"/>
+	<SubTexture name="lili right0011" x="1888" y="764" width="412" height="743" frameX="-7" frameY="-17" frameWidth="419" frameHeight="760"/>
+	<SubTexture name="lili right0012" x="1888" y="764" width="412" height="743" frameX="-7" frameY="-17" frameWidth="419" frameHeight="760"/>
+	<SubTexture name="lili right0013" x="1888" y="764" width="412" height="743" frameX="-7" frameY="-17" frameWidth="419" frameHeight="760"/>
+	<SubTexture name="lili right0014" x="1888" y="764" width="412" height="743" frameX="-7" frameY="-17" frameWidth="419" frameHeight="760"/>
+	<SubTexture name="lili right0015" x="1888" y="764" width="412" height="743" frameX="-7" frameY="-17" frameWidth="419" frameHeight="760"/>
+	<SubTexture name="lili right0016" x="1888" y="764" width="412" height="743" frameX="-7" frameY="-17" frameWidth="419" frameHeight="760"/>
+	<SubTexture name="lili right0017" x="1888" y="764" width="412" height="743" frameX="-7" frameY="-17" frameWidth="419" frameHeight="760"/>
+	<SubTexture name="lili right0018" x="1888" y="764" width="412" height="743" frameX="-7" frameY="-17" frameWidth="419" frameHeight="760"/>
+	<SubTexture name="lili up0000" x="2300" y="764" width="559" height="820"/>
+	<SubTexture name="lili up0001" x="2300" y="764" width="559" height="820"/>
+	<SubTexture name="lili up0002" x="2300" y="764" width="559" height="820"/>
+	<SubTexture name="lili up0003" x="2859" y="764" width="544" height="807" frameX="-8" frameY="-12" frameWidth="559" frameHeight="820"/>
+	<SubTexture name="lili up0004" x="2859" y="764" width="544" height="807" frameX="-8" frameY="-12" frameWidth="559" frameHeight="820"/>
+	<SubTexture name="lili up0005" x="3403" y="764" width="549" height="800" frameX="-10" frameY="-19" frameWidth="559" frameHeight="820"/>
+	<SubTexture name="lili up0006" x="3403" y="764" width="549" height="800" frameX="-10" frameY="-19" frameWidth="559" frameHeight="820"/>
+	<SubTexture name="lili up0007" x="3403" y="764" width="549" height="800" frameX="-10" frameY="-19" frameWidth="559" frameHeight="820"/>
+	<SubTexture name="lili up0008" x="3403" y="764" width="549" height="800" frameX="-10" frameY="-19" frameWidth="559" frameHeight="820"/>
+	<SubTexture name="lili up0009" x="3403" y="764" width="549" height="800" frameX="-10" frameY="-19" frameWidth="559" frameHeight="820"/>
+	<SubTexture name="lili up0010" x="3403" y="764" width="549" height="800" frameX="-10" frameY="-19" frameWidth="559" frameHeight="820"/>
+	<SubTexture name="lili up0011" x="3403" y="764" width="549" height="800" frameX="-10" frameY="-19" frameWidth="559" frameHeight="820"/>
+	<SubTexture name="lili up0012" x="3403" y="764" width="549" height="800" frameX="-10" frameY="-19" frameWidth="559" frameHeight="820"/>
+	<SubTexture name="lili up0013" x="3403" y="764" width="549" height="800" frameX="-10" frameY="-19" frameWidth="559" frameHeight="820"/>
+	<SubTexture name="lili up0014" x="3403" y="764" width="549" height="800" frameX="-10" frameY="-19" frameWidth="559" frameHeight="820"/>
+	<SubTexture name="lili up0015" x="3403" y="764" width="549" height="800" frameX="-10" frameY="-19" frameWidth="559" frameHeight="820"/>
+	<SubTexture name="lili up0016" x="3403" y="764" width="549" height="800" frameX="-10" frameY="-19" frameWidth="559" frameHeight="820"/>
+	<SubTexture name="lili up0017" x="3403" y="764" width="549" height="800" frameX="-10" frameY="-19" frameWidth="559" frameHeight="820"/>
+</TextureAtlas>

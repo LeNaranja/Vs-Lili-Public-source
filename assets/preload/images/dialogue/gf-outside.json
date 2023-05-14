@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		210,
+		110
+	],
+	"scale": 1.3,
+	"animations": [
+		{
+			"loop_name": "angry",
+			"idle_offsets": [
+				224,
+				24
+			],
+			"idle_name": "angry0000",
+			"anim": "angry",
+			"loop_offsets": [
+				224,
+				24
+			]
+		},
+		{
+			"loop_name": "sarcastic",
+			"idle_offsets": [
+				182,
+				31
+			],
+			"idle_name": "sarcastic0000",
+			"anim": "sarcastic",
+			"loop_offsets": [
+				182,
+				31
+			]
+		},
+		{
+			"loop_name": "ugh",
+			"idle_offsets": [
+				166,
+				28
+			],
+			"idle_name": "ugh0000",
+			"anim": "ugh",
+			"loop_offsets": [
+				166,
+				28
+			]
+		},
+		{
+			"loop_name": "upset",
+			"idle_offsets": [
+				180,
+				30
+			],
+			"idle_name": "upset0000",
+			"anim": "upset",
+			"loop_offsets": [
+				180,
+				30
+			]
+		}
+	],
+	"image": "gf-outside"
+}

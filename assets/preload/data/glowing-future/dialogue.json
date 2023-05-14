@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "lulu-dialogue",
+			"speed": 0.05,
+			"portrait": "lulu",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "How fun!"
+		},
+		{
+			"sound": "lulu-dialogue",
+			"speed": 0.05,
+			"portrait": "lulu",
+			"boxState": "normal",
+			"expression": "happy 2",
+			"text": "I don't know what else to say, so let's just sing the last one."
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf-outside",
+			"boxState": "normal",
+			"expression": "duda",
+			"text": "Aea."
+		}
+	]
+}

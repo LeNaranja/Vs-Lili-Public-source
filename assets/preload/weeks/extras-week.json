@@ -1,0 +1,59 @@
+{
+	"storyName": "extras",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "Lili-week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"game of robots",
+			"nikkuhex",
+			[
+				86,
+				193,
+				253
+			]
+		],
+		[
+			"jealousy",
+			"gf",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"cinco",
+			"lili-happy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"purple eyes",
+			"lili-happy",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "extras"
+}

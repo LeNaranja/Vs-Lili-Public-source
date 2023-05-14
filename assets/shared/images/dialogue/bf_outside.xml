@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf_outside.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="calm down0000" x="0" y="0" width="394" height="468"/>
+	<SubTexture name="determinado0000" x="394" y="0" width="394" height="427"/>
+	<SubTexture name="duda0000" x="788" y="0" width="386" height="432"/>
+	<SubTexture name="enojado0000" x="1174" y="0" width="349" height="431"/>
+	<SubTexture name="feliz left0000" x="1523" y="0" width="394" height="452"/>
+	<SubTexture name="feliz up0000" x="0" y="468" width="394" height="451"/>
+	<SubTexture name="molesto0000" x="394" y="468" width="349" height="431"/>
+	<SubTexture name="pelea0000" x="743" y="468" width="394" height="428"/>
+	<SubTexture name="really0000" x="1137" y="468" width="359" height="424"/>
+</TextureAtlas>

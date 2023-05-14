@@ -1,0 +1,188 @@
+{
+	"dialogue": [
+		{
+			"sound": "gf-dialogue",
+			"speed": 0.05,
+			"portrait": "gf-outside",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Oh come on, now a midget?!"
+		},
+		{
+			"sound": "lulu-dialogue",
+			"speed": 0.05,
+			"portrait": "lulu",
+			"boxState": "normal",
+			"expression": "curious",
+			"text": "Oh? Where am I?"
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf-outside",
+			"boxState": "normal",
+			"expression": "feliz 2",
+			"text": "This one looks funny."
+		},
+		{
+			"sound": "lili-angry-dialogue",
+			"speed": 0.05,
+			"portrait": "lili-full",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Sister!!!"
+		},
+		{
+			"sound": "lulu-dialogue",
+			"speed": 0.05,
+			"portrait": "lulu",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Lili!!!"
+		},
+		{
+			"sound": "lulu-dialogue",
+			"speed": 0.05,
+			"portrait": "lulu",
+			"boxState": "normal",
+			"expression": "happy 2",
+			"text": "I looked for you everywhere!"
+		},
+		{
+			"sound": "lulu-dialogue",
+			"speed": 0.05,
+			"portrait": "lulu",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Where did you go?"
+		},
+		{
+			"sound": "lulu-dialogue",
+			"speed": 0.05,
+			"portrait": "lulu",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Why did you leave me alone?!"
+		},
+		{
+			"sound": "lili-angry-dialogue",
+			"speed": 0.05,
+			"portrait": "lili-full",
+			"boxState": "normal",
+			"expression": "insecure",
+			"text": "I..."
+		},
+		{
+			"sound": "lili-angry-dialogue",
+			"speed": 0.05,
+			"portrait": "lili-full",
+			"boxState": "normal",
+			"expression": "emotional",
+			"text": "I'm sorry, I left because I was in danger, but I was going to come back for you."
+		},
+		{
+			"sound": "lulu-dialogue",
+			"speed": 0.05,
+			"portrait": "lulu",
+			"boxState": "normal",
+			"expression": "upset",
+			"text": "Yeah, right..."
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf-outside",
+			"boxState": "normal",
+			"expression": "calm down",
+			"text": "Hey! Don't worry."
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf-outside",
+			"boxState": "normal",
+			"expression": "feliz 2",
+			"text": "At least you're together again. That's what's important, right?"
+		},
+		{
+			"sound": "lili-angry-dialogue",
+			"speed": 0.05,
+			"portrait": "lili-full",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "That's true."
+		},
+		{
+			"sound": "lulu-dialogue",
+			"speed": 0.05,
+			"portrait": "lulu",
+			"boxState": "normal",
+			"expression": "upset",
+			"text": "...yeah."
+		},
+		{
+			"sound": "lulu-dialogue",
+			"speed": 0.05,
+			"portrait": "lulu",
+			"boxState": "normal",
+			"expression": "curious",
+			"text": "Oh? What's that?"
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf-outside",
+			"boxState": "normal",
+			"expression": "duda",
+			"text": "What thing?"
+		},
+		{
+			"sound": "lulu-dialogue",
+			"speed": 0.05,
+			"portrait": "lulu",
+			"boxState": "normal",
+			"expression": "happy 2",
+			"text": "There in your pocket."
+		},
+		{
+			"sound": "lulu-dialogue",
+			"speed": 0.05,
+			"portrait": "lulu",
+			"boxState": "normal",
+			"expression": "curious",
+			"text": "There's something."
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf-outside",
+			"boxState": "normal",
+			"expression": "feliz 2",
+			"text": "Oh, it's a mic, but it's too late to turn it on."
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf-outside",
+			"boxState": "normal",
+			"expression": "feliz 1",
+			"text": "But we can sing without it."
+		},
+		{
+			"sound": "lulu-dialogue",
+			"speed": 0.05,
+			"portrait": "lulu",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Oh, oh, I want to try!"
+		},
+		{
+			"sound": "gf-dialogue",
+			"speed": 0.05,
+			"portrait": "gf-outside",
+			"boxState": "normal",
+			"expression": "ugh",
+			"text": "Ah shit, here we go again."
+		}
+	]
+}

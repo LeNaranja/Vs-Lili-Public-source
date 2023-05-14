@@ -1,0 +1,387 @@
+{
+	"song": {
+		"events": [
+			[
+				144000,
+				[
+					[
+						"Pantalla negra",
+						"1",
+						"0",
+						null
+					],
+					[
+						"UI on/off",
+						"false",
+						"",
+						""
+					],
+					[
+						"Strum visibilidad",
+						"dad",
+						"0",
+						"0"
+					],
+					[
+						"Strum visibilidad",
+						"bf",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				155250,
+				[
+					[
+						"Strum visibilidad",
+						"bf",
+						"1",
+						"10"
+					]
+				]
+			],
+			[
+				156000,
+				[
+					[
+						"Vignette",
+						"1",
+						"0",
+						""
+					],
+					[
+						"Pantalla negra",
+						"0",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				167250,
+				[
+					[
+						"Pantalla negra",
+						"1",
+						"0",
+						""
+					],
+					[
+						"Strum visibilidad",
+						"bf",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				168000,
+				[
+					[
+						"Set Property",
+						"boyfriend.x",
+						"400"
+					],
+					[
+						"Camera Flash",
+						"0E0E",
+						"1"
+					],
+					[
+						"Pantalla negra",
+						"0",
+						"0",
+						""
+					],
+					[
+						"Strum visibilidad",
+						"dad",
+						"1",
+						"0"
+					],
+					[
+						"Red Vignette",
+						"1",
+						"0",
+						""
+					],
+					[
+						"Vignette",
+						"0",
+						"0",
+						""
+					],
+					[
+						"UI on/off",
+						"true",
+						"",
+						""
+					],
+					[
+						"Zoom",
+						"1",
+						"1",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"500",
+						"500",
+						""
+					]
+				]
+			],
+			[
+				177000,
+				[
+					[
+						"Strum visibilidad",
+						"bf",
+						"1",
+						"5"
+					]
+				]
+			],
+			[
+				177600,
+				[
+					[
+						"Camera Flash",
+						"0E0E",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				187200,
+				[
+					[
+						"Zoom",
+						"0.8",
+						"1"
+					]
+				]
+			],
+			[
+				206400,
+				[
+					[
+						"Set Property",
+						"boyfriend.x",
+						"900",
+						""
+					],
+					[
+						"Camera Flash",
+						"000000",
+						"2",
+						""
+					],
+					[
+						"UI on/off",
+						"false",
+						"",
+						""
+					],
+					[
+						"Red Vignette",
+						"0",
+						"0",
+						""
+					],
+					[
+						"Vignette",
+						"1",
+						"0",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				225600,
+				[
+					[
+						"Camera Flash",
+						"0000",
+						"2"
+					],
+					[
+						"Set Property",
+						"boyfriend.x",
+						"400"
+					],
+					[
+						"UI on/off",
+						"true",
+						"",
+						""
+					],
+					[
+						"Vignette",
+						"0",
+						"0",
+						""
+					],
+					[
+						"Red Vignette",
+						"1",
+						"0",
+						""
+					],
+					[
+						"Zoom",
+						"1",
+						"1",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"500",
+						"500",
+						""
+					]
+				]
+			],
+			[
+				244800,
+				[
+					[
+						"Zoom",
+						"1.1",
+						"1",
+						""
+					],
+					[
+						"Camera Flash",
+						"0000",
+						"2",
+						""
+					],
+					[
+						"Strum visibilidad",
+						"dad",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				254400,
+				[
+					[
+						"Strum visibilidad",
+						"dad",
+						"1",
+						"0"
+					],
+					[
+						"Zoom",
+						"1",
+						"1",
+						""
+					],
+					[
+						"Camera Flash",
+						"0000",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				264000,
+				[
+					[
+						"Pantalla negra",
+						"1",
+						"0",
+						""
+					],
+					[
+						"Red Vignette",
+						"0",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				265800,
+				[
+					[
+						"Camera Flash",
+						"000000",
+						"5",
+						""
+					],
+					[
+						"Strum visibilidad",
+						"dad",
+						"0",
+						"0"
+					],
+					[
+						"UI on/off",
+						"false",
+						"",
+						""
+					],
+					[
+						"Strum visibilidad",
+						"bf",
+						"0",
+						"0"
+					],
+					[
+						"Pantalla negra",
+						"0",
+						"0",
+						""
+					],
+					[
+						"Vignette",
+						"1",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				284400,
+				[
+					[
+						"Strum visibilidad",
+						"bf",
+						"1",
+						"10"
+					]
+				]
+			],
+			[
+				309000,
+				[
+					[
+						"Strum visibilidad",
+						"bf",
+						"0",
+						"10"
+					],
+					[
+						"Pantalla negra",
+						"1",
+						"5",
+						""
+					]
+				]
+			]
+		]
+	}
+}

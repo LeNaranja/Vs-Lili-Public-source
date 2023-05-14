@@ -1,0 +1,151 @@
+{
+	"song": {
+		"player1": "bf-pijama",
+		"gfVersion": "nogf",
+		"notes": [
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						2700,
+						4,
+						0
+					],
+					[
+						3000,
+						6,
+						0
+					],
+					[
+						2900,
+						7,
+						0
+					],
+					[
+						3100,
+						4,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						3300,
+						5,
+						0
+					],
+					[
+						3500,
+						6,
+						0
+					],
+					[
+						3700,
+						4,
+						0
+					],
+					[
+						4300,
+						4,
+						0
+					],
+					[
+						4400,
+						6,
+						0
+					],
+					[
+						4500,
+						5,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						4800,
+						7,
+						0
+					],
+					[
+						5000,
+						4,
+						0
+					],
+					[
+						5100,
+						5,
+						0
+					],
+					[
+						5300,
+						2,
+						300
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"events": [],
+		"player2": "Lili casual",
+		"splashSkin": "noteSplashes",
+		"song": "cinco",
+		"needsVoices": true,
+		"arrowSkin": "",
+		"stage": "callejon",
+		"validScore": true,
+		"bpm": 150,
+		"speed": 3
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "Lili-week",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"deep poems",
+			"lili-happy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"milk",
+			"lili-happy",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "covers",
+	"hiddenUntilUnlocked": false
+}

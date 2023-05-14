@@ -1,0 +1,13 @@
+{
+	"directory": "lili",
+	"defaultZoom": 0.6,
+	"isPixelStage": false,
+
+	"boyfriend": [900, 375],
+	"girlfriend": [700, 300],
+	"opponent": [40, 325],
+
+	"camera_boyfriend": [-150, -250],
+	"camera_opponent": [-60, -240],
+	"camera_girlfriend": [-0, -250]
+}

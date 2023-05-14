@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Lili_sad_dialogue.png"><SubTexture name="Lili_sad_dialogue idle0000" x="0" y="523" width="343" height="494" frameX="-1" frameY="-15" frameWidth="346" frameHeight="509" />
+<SubTexture name="down0000" x="311" y="0" width="343" height="510" frameX="0" frameY="-1" frameWidth="349" frameHeight="511" />
+<SubTexture name="left0000" x="654" y="0" width="340" height="508" frameX="-11" frameY="0" frameWidth="354" frameHeight="508" />
+<SubTexture name="right0000" x="994" y="0" width="345" height="496" frameX="-1" frameY="-12" frameWidth="347" frameHeight="508" />
+<SubTexture name="up0000" x="0" y="0" width="311" height="523" frameX="-6" frameY="-1" frameWidth="330" frameHeight="524" />
+</TextureAtlas>

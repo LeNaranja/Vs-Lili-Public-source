@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lili down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lili right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				181,
+				6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lili up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lili left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "lili idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lili_night",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "lili-happy",
+	"flip_x": false,
+	"healthbar_colors": [
+		199,
+		0,
+		254
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2.7
+}

@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "slug-dialogue",
+			"speed": 0.05,
+			"portrait": "slug",
+			"boxState": "normal",
+			"expression": "suprise",
+			"text": "Is that all, midget?"
+		},
+		{
+			"sound": "lili-angry-dialogue",
+			"speed": 0.05,
+			"portrait": "lili-full",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "Enough!"
+		},
+		{
+			"sound": "lili-angry-dialogue",
+			"speed": 0.05,
+			"portrait": "lili-full",
+			"boxState": "normal",
+			"expression": "stop",
+			"text": "I've had enough of you standing up for me."
+		},
+		{
+			"sound": "lili-angry-dialogue",
+			"speed": 0.05,
+			"portrait": "lili-full",
+			"boxState": "normal",
+			"expression": "sigh",
+			"text": "Thank you, but it's time for 'me' to take action."
+		},
+		{
+			"sound": "slug-dialogue",
+			"speed": 0.05,
+			"portrait": "slug",
+			"boxState": "normal",
+			"expression": "sarcastic",
+			"text": "About time, princess."
+		},
+		{
+			"sound": "lili-angry-dialogue",
+			"speed": 0.05,
+			"portrait": "lili-full",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Lulu, whit me."
+		},
+		{
+			"sound": "lulu-dialogue",
+			"speed": 0.05,
+			"portrait": "lulu",
+			"boxState": "normal",
+			"expression": "sigh",
+			"text": "Y-yes, coming."
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf-outside",
+			"boxState": "normal",
+			"expression": "duda",
+			"text": "We won't get involved anymore."
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf-outside",
+			"boxState": "normal",
+			"expression": "pelea",
+			"text": "Watch what you do, emo boy."
+		}
+	]
+}

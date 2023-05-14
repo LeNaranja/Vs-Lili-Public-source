@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GF idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GF NOTE LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GF NOTE DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				24
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GF NOTE UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GF NOTE RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				0
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "GF sape",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf_pijama_deep",
+	"position": [
+		220,
+		190
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

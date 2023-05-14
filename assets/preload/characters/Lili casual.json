@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "lili idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				109,
+				-24
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lili down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				118,
+				17
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lili left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lili right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				209,
+				51
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lili up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CoolLili",
+	"position": [
+		30,
+		-70
+	],
+	"healthicon": "lilichill",
+	"flip_x": false,
+	"healthbar_colors": [
+		169,
+		0,
+		255
+	],
+	"camera_position": [
+		60,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

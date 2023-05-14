@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				41,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "gf celosa down"
+		},
+		{
+			"offsets": [
+				44,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "gf celosa up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-5
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gf celosa idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				61,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "gf celosa right"
+		},
+		{
+			"offsets": [
+				38,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "gf celosa left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/gf_celos",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

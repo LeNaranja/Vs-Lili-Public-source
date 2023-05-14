@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		160,
+		40
+	],
+	"scale": 1.1,
+	"animations": [
+		{
+			"loop_name": "grateful0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "grateful0000",
+			"anim": "grateful",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "nervous0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "nervous0000",
+			"anim": "nervous",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "relief0000",
+			"idle_offsets": [
+				-5,
+				0
+			],
+			"idle_name": "relief0000",
+			"anim": "relief",
+			"loop_offsets": [
+				-5,
+				0
+			]
+		},
+		{
+			"loop_name": "sad0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "sad0000",
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "lili_sad_dialogue"
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-152,
+				153
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lili deep down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-162,
+				165
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lili deep up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-94,
+				165
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "lili deep right"
+		},
+		{
+			"offsets": [
+				-159,
+				155
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "lili deep left"
+		},
+		{
+			"offsets": [
+				-158,
+				153
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Lili deep idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lili_poems",
+	"position": [
+		0,
+		140
+	],
+	"healthicon": "lili-happy",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		30,
+		-430
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}

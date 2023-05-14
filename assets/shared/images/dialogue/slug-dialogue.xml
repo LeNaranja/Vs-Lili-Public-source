@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="slug-dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry0000" x="0" y="0" width="774" height="829"/>
+	<SubTexture name="idle0000" x="774" y="0" width="417" height="745"/>
+	<SubTexture name="sarcastic0000" x="1191" y="0" width="812" height="833"/>
+	<SubTexture name="suprise0000" x="0" y="833" width="471" height="738"/>
+</TextureAtlas>
